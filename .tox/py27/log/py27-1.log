@@ -1,0 +1,68 @@
+actionid: py27
+msg: getenv
+cmdargs: ['C:\\Users\\rahul\\Downloads\\flask-developer-challenge-master\\.tox\\py27\\Scripts\\pip.EXE', 'install', '-rrequirements.txt', 'pytest']
+env: {'SSH_ASKPASS': 'C:/Program Files/Git/mingw64/libexec/git-core/git-gui--askpass', 'TMP': 'C:\\Users\\rahul\\AppData\\Local\\Temp', 'COMPUTERNAME': 'GHOST', 'VS140COMNTOOLS': 'B:\\Microsoft Visual Studio\\Common7\\Tools\\', 'VS110COMNTOOLS': 'C:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\', 'USERDOMAIN': 'GHOST', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules', 'ORIGINAL_TMP': 'C:/Users/rahul/AppData/Local/Temp', 'COMMONPROGRAMFILES': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel', 'MSYSTEM_CHOST': 'x86_64-w64-mingw32', 'ACLOCAL_PATH': 'C:\\Program Files\\Git\\mingw64\\share\\aclocal;C:\\Program Files\\Git\\usr\\share\\aclocal', 'PROCESSOR_REVISION': '2a07', 'PATH': 'C:\\Users\\rahul\\Downloads\\flask-developer-challenge-master\\.tox\\py27\\Scripts;C:\\Users\\rahul\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\rahul\\bin;C:\\Python27;C:\\Python27\\Scripts;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files (x86)\\Skype\\Phone;C:\\Program Files\\Microsoft SQL Server\\120\\Tools\\Binn;C:\\Android;C:\\Windows\\System32;C:\\Program Files (x86)\\Microsoft VS Code\\bin;C:\\adb;C:\\Users\\rahul\\.dnx\\bin;C:\\Program Files\\Microsoft DNX\\Dnvm;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs;C:\\Program Files (x86)\\Microsoft VS Code\\bin;C:\\Users\\rahul\\AppData\\Roaming\\npm;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl', 'HOME': 'C:\\Users\\rahul', 'EXEPATH': 'C:\\Program Files\\Git', 'PS1': '\\[\\033]0;$TITLEPREFIX:${PWD//[^[:ascii:]]/?}\\007\\]\\n\\[\\033[32m\\]\\u@\\h \\[\\033[35m\\]$MSYSTEM \\[\\033[33m\\]\\w\\[\\033[36m\\]`__git_ps1`\\[\\033[0m\\]\\n$ ', 'DISPLAY': 'needs-to-be-defined', 'MSYSTEM': 'MINGW64', 'INFOPATH': 'C:\\Program Files\\Git\\usr\\local\\info;C:\\Program Files\\Git\\usr\\share\\info;C:\\Program Files\\Git\\usr\\info;C:\\Program Files\\Git\\share\\info', 'TERM': 'xterm', 'SHELL': 'C:\\Program Files\\Git\\usr\\bin\\bash', 'TEMP': 'C:\\Users\\rahul\\AppData\\Local\\Temp', 'PLINK_PROTOCOL': 'ssh', 'SHLVL': '1', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PYTHONHASHSEED': '554', 'PROCESSOR_ARCHITECTURE': 'x86', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'ORIGINAL_TEMP': 'C:/Users/rahul/AppData/Local/Temp', 'OLDPWD': 'C:/Users/rahul/Downloads/flask-developer-challenge-master', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'USERPROFILE': 'C:\\Users\\rahul', 'TMPDIR': 'C:\\Users\\rahul\\AppData\\Local\\Temp', 'MANPATH': 'C:\\Program Files\\Git\\mingw64\\share\\man;C:\\Program Files\\Git\\usr\\local\\man;C:\\Program Files\\Git\\usr\\share\\man;C:\\Program Files\\Git\\usr\\man;C:\\Program Files\\Git\\share\\man', 'HOMEPATH': '\\Users\\rahul', 'USERDOMAIN_ROAMINGPROFILE': 'GHOST', 'VS120COMNTOOLS': 'B:\\Visual Studio Files\\Visual Studio 2013\\Common7\\Tools\\', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'rahul', 'MINGW_CHOST': 'x86_64-w64-mingw32', 'LOGONSERVER': '\\\\MicrosoftAccount', 'SYSTEMROOT': 'C:\\Windows', 'COMSPEC': 'C:\\Windows\\system32\\cmd.exe', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\rahul\\OneDrive', 'VIRTUAL_ENV': 'C:\\Users\\rahul\\Downloads\\flask-developer-challenge-master\\.tox\\py27', 'PRINTER': 'Microsoft Print to PDF', 'SESSIONNAME': 'Console', 'PKG_CONFIG_PATH': 'C:\\Program Files\\Git\\mingw64\\lib\\pkgconfig;C:\\Program Files\\Git\\mingw64\\share\\pkgconfig', 'LC_ALL': 'C', 'MSYSTEM_PREFIX': 'C:/Program Files/Git/mingw64', 'MSYSTEM_CARCH': 'x86_64', '_': 'C:/Python27/Scripts/tox', 'ORIGINAL_PATH': 'C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\rahul\\bin;C:\\Python27;C:\\Python27\\Scripts;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files (x86)\\Skype\\Phone;C:\\Program Files\\Microsoft SQL Server\\120\\Tools\\Binn;C:\\Android;C:\\Windows\\System32;C:\\Program Files (x86)\\Microsoft VS Code\\bin;C:\\adb;C:\\Users\\rahul\\.dnx\\bin;C:\\Program Files\\Microsoft DNX\\Dnvm;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs;C:\\Program Files (x86)\\Microsoft VS Code\\bin;C:\\Users\\rahul\\AppData\\Roaming\\npm', 'CONFIG_SITE': 'C:/Program Files/Git/mingw64/etc/config.site', 'HOMEDRIVE': 'C:', 'APPDATA': 'C:\\Users\\rahul\\AppData\\Roaming', 'PROGRAMFILES': 'C:\\Program Files (x86)', 'OS': 'Windows_NT', 'SYSTEMDRIVE': 'C:', 'HOSTNAME': 'GHOST', 'MINGW_PACKAGE_PREFIX': 'mingw-w64-x86_64', 'NUMBER_OF_PROCESSORS': '4', 'PWD': 'C:/Users/rahul/Downloads/flask-developer-challenge-master/gistapi', 'PROCESSOR_LEVEL': '6', 'MINGW_PREFIX': 'C:/Program Files/Git/mingw64', 'PROCESSOR_ARCHITEW6432': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'WINDIR': 'C:\\Windows', 'PUBLIC': 'C:\\Users\\Public', 'ANDROID_SDK_HOME': 'C:\\Users\\rahul\\.android', 'LOCALAPPDATA': 'C:\\Users\\rahul\\AppData\\Local'}
+
+Collecting pytest
+  Downloading pytest-3.0.5-py2.py3-none-any.whl (170kB)
+Collecting cffi==1.5.2 (from -r requirements.txt (line 7))
+  Downloading cffi-1.5.2-cp27-none-win32.whl (141kB)
+Collecting cryptography==1.2.3 (from -r requirements.txt (line 8))
+  Downloading cryptography-1.2.3-cp27-none-win32.whl (882kB)
+Collecting enum34==1.1.2 (from -r requirements.txt (line 9))
+  Downloading enum34-1.1.2.tar.gz (46kB)
+Collecting Flask==0.10.1 (from -r requirements.txt (line 10))
+  Downloading Flask-0.10.1.tar.gz (544kB)
+Collecting gunicorn==19.4.5 (from -r requirements.txt (line 11))
+  Downloading gunicorn-19.4.5-py2.py3-none-any.whl (112kB)
+Collecting idna==2.0 (from -r requirements.txt (line 12))
+  Downloading idna-2.0-py2.py3-none-any.whl (61kB)
+Collecting ipaddress==1.0.16 (from -r requirements.txt (line 13))
+  Downloading ipaddress-1.0.16-py27-none-any.whl
+Collecting itsdangerous==0.24 (from -r requirements.txt (line 14))
+  Downloading itsdangerous-0.24.tar.gz (46kB)
+Collecting Jinja2==2.8 (from -r requirements.txt (line 15))
+  Downloading Jinja2-2.8-py2.py3-none-any.whl (263kB)
+Collecting MarkupSafe==0.23 (from -r requirements.txt (line 16))
+  Downloading MarkupSafe-0.23.tar.gz
+Collecting ndg-httpsclient==0.4.0 (from -r requirements.txt (line 17))
+  Downloading ndg_httpsclient-0.4.0.tar.gz
+Collecting pyasn1==0.1.9 (from -r requirements.txt (line 18))
+  Downloading pyasn1-0.1.9-py2.py3-none-any.whl
+Collecting pycparser==2.14 (from -r requirements.txt (line 19))
+  Downloading pycparser-2.14.tar.gz (223kB)
+Collecting pyopenssl==0.15.1 (from -r requirements.txt (line 20))
+  Downloading pyOpenSSL-0.15.1-py2.py3-none-any.whl (102kB)
+Collecting requests==2.9.1 (from -r requirements.txt (line 21))
+  Downloading requests-2.9.1-py2.py3-none-any.whl (501kB)
+Collecting six==1.10.0 (from -r requirements.txt (line 22))
+  Downloading six-1.10.0-py2.py3-none-any.whl
+Collecting Werkzeug==0.11.4 (from -r requirements.txt (line 23))
+  Downloading Werkzeug-0.11.4-py2.py3-none-any.whl (305kB)
+Collecting py>=1.4.29 (from pytest)
+  Downloading py-1.4.32-py2.py3-none-any.whl (82kB)
+Collecting colorama; sys_platform == "win32" (from pytest)
+  Downloading colorama-0.3.7-py2.py3-none-any.whl
+Requirement already satisfied: setuptools>=1.0 in c:\users\rahul\downloads\flask-developer-challenge-master\.tox\py27\lib\site-packages (from cryptography==1.2.3->-r requirements.txt (line 8))
+Building wheels for collected packages: enum34, Flask, itsdangerous, MarkupSafe, ndg-httpsclient, pycparser
+  Running setup.py bdist_wheel for enum34: started
+  Running setup.py bdist_wheel for enum34: finished with status 'done'
+  Stored in directory: C:\Users\rahul\AppData\Local\pip\Cache\wheels\9a\ad\df\8e65f3218a057a35ae65dc70f242a3cf06a7d602a53f0eb9b9
+  Running setup.py bdist_wheel for Flask: started
+  Running setup.py bdist_wheel for Flask: finished with status 'done'
+  Stored in directory: C:\Users\rahul\AppData\Local\pip\Cache\wheels\b6\09\65\5fcf16f74f334a215447c26769e291c41883862fe0dc7c1430
+  Running setup.py bdist_wheel for itsdangerous: started
+  Running setup.py bdist_wheel for itsdangerous: finished with status 'done'
+  Stored in directory: C:\Users\rahul\AppData\Local\pip\Cache\wheels\fc\a8\66\24d655233c757e178d45dea2de22a04c6d92766abfb741129a
+  Running setup.py bdist_wheel for MarkupSafe: started
+  Running setup.py bdist_wheel for MarkupSafe: finished with status 'done'
+  Stored in directory: C:\Users\rahul\AppData\Local\pip\Cache\wheels\a3\fa\dc\0198eed9ad95489b8a4f45d14dd5d2aee3f8984e46862c5748
+  Running setup.py bdist_wheel for ndg-httpsclient: started
+  Running setup.py bdist_wheel for ndg-httpsclient: finished with status 'done'
+  Stored in directory: C:\Users\rahul\AppData\Local\pip\Cache\wheels\c9\88\f1\348d5ec506bef5a2a8351243028289a7bb9513b8dd8bbf1c14
+  Running setup.py bdist_wheel for pycparser: started
+  Running setup.py bdist_wheel for pycparser: finished with status 'done'
+  Stored in directory: C:\Users\rahul\AppData\Local\pip\Cache\wheels\9b\f4\2e\d03e949a551719a1ffcb659f2c63d8444f4df12e994ce52112
+Successfully built enum34 Flask itsdangerous MarkupSafe ndg-httpsclient pycparser
+Installing collected packages: py, colorama, pytest, pycparser, cffi, idna, pyasn1, six, ipaddress, enum34, cryptography, Werkzeug, MarkupSafe, Jinja2, itsdangerous, Flask, gunicorn, pyopenssl, ndg-httpsclient, requests
+Successfully installed Flask-0.10.1 Jinja2-2.8 MarkupSafe-0.23 Werkzeug-0.11.4 cffi-1.5.2 colorama-0.3.7 cryptography-1.2.3 enum34-1.1.2 gunicorn-19.4.5 idna-2.0 ipaddress-1.0.16 itsdangerous-0.24 ndg-httpsclient-0.4.0 py-1.4.32 pyasn1-0.1.9 pycparser-2.14 pyopenssl-0.15.1 pytest-3.0.5 requests-2.9.1 six-1.10.0
