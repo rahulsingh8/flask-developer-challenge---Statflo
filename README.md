@@ -1,3 +1,16 @@
+#Prerequisites 
+Before you start reading this challenge make sure you understand the following:
+- [Python Flask] (http://flask.pocoo.org/) 
+- Tox - A virtual environment and test command line tool
+- pip - A package management system, used to install software packages written in python
+- Make sure you install python 2.7.9 or above as it comes with pip inbuild
+```
+pip install tox
+pip install requests
+pip install flask
+```
+All the above will get you started. Good Luck
+
 # gistapi
 Gistapi is a simple HTTP API server implemented in Flask for searching a user's public Github Gists. The gistapi code in this repository has 
 been left incomplete for you to finish.
